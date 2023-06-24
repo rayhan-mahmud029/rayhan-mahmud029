@@ -1,4 +1,3 @@
-[![MasterHead](https://arkasoft-buckets.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-6.jpg)
 <h1 align="center">Hi 👋, This is Rezwan Mahmud</h1>
 <h3 align="center">An enthusiastic MERN stack developer hailing from Bangladesh.</h3>
 
