@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Rezwan Mahmud</h1>
-<h3 align="center">An enthusiastic MERN stack developer hailing from Bangladesh.</h3>
+<h3 align="center">An enthusiastic MERN stack developer hailing from New York.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/young-programmer-working-laptop-computer-cartoon-character_24797-2123.jpg?w=740&t=st=1687591340~exp=1687591940~hmac=c885b56803ec97dc105a687aca4dd670df7196459aeda6c5c79f4213ad423b78"/>
 
