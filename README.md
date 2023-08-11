@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next JS ,Redux**
 
-- 👨‍💻 All of my projects are available at [http://www.mahmud-rayhan.rf.gd/](http://www.mahmud-rayhan.rf.gd/)
+- 👨‍💻 All of my projects are available at [https://rezwan-mahmud-dev.netlify.app/](https://rezwan-mahmud-dev.netlify.app/)
 
 - 💬 Ask me about **React, Java Script and Python**
 
