@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rezwan Mahmud</h1>
 <h3 align="center">iOS Developer • Full-Stack (MERN) • CS Student • Unity & C++</h3>
 
-<img align="right" alt="Coding" width="360" 
-     src="https://img.freepik.com/free-vector/young-programmer-working-laptop-computer-cartoon-character_24797-2123.jpg"/>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rezwanmahmud&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 🚀 About Me
